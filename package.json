@@ -1,0 +1,12 @@
+{
+  "name": "aviator-round-verifier",
+  "version": "1.0.0",
+  "description": "Rebuild a finished provably fair Aviator round (Spribe and Aviator Studio versions) from its seeds.",
+  "type": "module",
+  "main": "verify.mjs",
+  "scripts": { "test": "node test.mjs" },
+  "keywords": ["provably-fair", "crash-game", "aviator", "sha512", "probability"],
+  "license": "MIT",
+  "homepage": "https://betproof.app/tools/aviator-verifier/",
+  "engines": { "node": ">=18" }
+}

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Aviator round verifier"
+abstract: "Rebuilds a finished provably fair Aviator crash round (Spribe and Aviator Studio versions) from its server and client seeds, with real rounds as tests."
+authors:
+  - name: "BetLot Ltd"
+version: 1.0.0
+date-released: 2026-11-20
+license: MIT
+url: "https://betproof.app/tools/aviator-verifier/"
+keywords: [provably fair, crash game, aviator, sha-512, probability]
